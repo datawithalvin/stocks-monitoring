@@ -1,0 +1,8 @@
+pandas
+polars==0.18.11
+gnews
+nltk
+psycopg==3.1.9
+SQLAlchemy==2.0.19
+Scrapy
+newspaper3k
